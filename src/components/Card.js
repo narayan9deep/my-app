@@ -57,7 +57,7 @@ export default function Card(props) {
                                 </div>
 
                                 <div className="flex justify-start">
-                                    {props.quickApply === "quick" && <button class="bg-[#1597E4] hover:bg-gray-600 text-white py-2 px-4 rounded-md mt-8 ">
+                                    {props.quickApply === "quick" && <button class="bg-[#1597E4] hover:bg-gray-600 text-white py-2 px-4 rounded-md mr-4 mt-8 ">
                                         <span>Apply Now</span>
                                     </button>}
 
