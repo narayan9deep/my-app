@@ -1,6 +1,19 @@
-# Getting Started with Create React App
+# Simple Job Portal
+
+This is a simple frontend application designed to serve as a Job Portal, developed using React for the frontend and [https://mockapi.io/](mockapi.io) for the backend. The Figma design can be accessed [https://www.figma.com/file/FT5SRlxcJSMciFH8pE6MKj/Front-End-Assignment?node-id=0%3A1&t=gldrhpSo4XyRh0Ta-1](here).
+
+## Tools/Technologie/Frameworks used:
+- React
+- [https://mockapi.io/](mockapi.io)
+- TailWind CSS
+
+## Video Demo
+
+<video src="./video_Demo.mp4" width=1000></video>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 
 ## Available Scripts
 
